@@ -1,0 +1,16 @@
+.Body
+{
+    box-sizing: content-box;
+    color: burlywood;
+}
+
+.h1
+{
+    color: cornflowerblue;
+    text-align: center;
+}
+.class
+{
+    border-bottom: crimson;
+    padding: 2px 4px;
+}
