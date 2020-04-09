@@ -1,16 +1,100 @@
-.Body
+* 
 {
-    box-sizing: content-box;
-    color: burlywood;
+    text-align: center;
+    color: ;
+    padding: 5px 10px;
+    border-style: double;
+    border-color: black;
+    background-color: white;
+    opacity: 1;
+    
 }
 
-.h1
+header
+{
+    color: cornflowerblue;
+    border-style: none;
+}
+
+#class
+{
+    contain: content;
+    padding: 10px solid;
+    border-style: none;
+}
+
+h1
 {
     color: cornflowerblue;
     text-align: center;
+    border-style: none;
 }
-.class
+.name
 {
     border-bottom: crimson;
     padding: 2px 4px;
+    color: cornflowerblue;
+    border-style: none;
 }
+ 
+.email
+{
+    box-sizing: content-box;
+    padding: 2px 4px;
+    color: cornflowerblue;
+    border-style: none;
+}
+
+.address
+{
+    border: 2px 4px solid;
+    padding: 2px 4px;
+    color: cornflowerblue;
+    border-style: none;
+}
+.age
+{
+    border: 2px 4px solid;
+    padding: 2px 4px;
+    color: cornflowerblue;
+    border-style: none;
+}
+
+.city
+{
+    color: cornflowerblue;
+    padding: 2px 4px;
+    border-style: none;
+}
+
+.instate
+{
+    border-color: ;
+    color: cornflowerblue;
+    box-sizing: border-box;
+    border-style: none;
+}
+
+.university
+{
+    border-color: ;
+    color: cornflowerblue;
+    box-sizing: border-box;
+    border-style: none;
+}
+
+.btn
+{
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.footer {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 10px;
+  } color: coral;
+    border-style: none;
+    
